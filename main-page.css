@@ -1,3 +1,5 @@
 .test {
-  color:red
+  left-margin: 0 auto;
+  right-margin: 0 auto;
+  justify-content: center;
 }
